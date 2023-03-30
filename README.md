@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 - :orange_book: 技术博客：https://www.xtpeach.com
  
-- :hammer:  个人网站：http://www.xuanido.com
+- :hammer:  个人网站：https://www.xuanido.com
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=xtpeach&show_icons=true&count_private=false&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
